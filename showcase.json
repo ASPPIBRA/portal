@@ -4405,5 +4405,25 @@
     "github": "https://github.com/ORIGYN-SA/CanDB",
     "display": "Normal",
     "logo": "/img/showcase/candb_logo.png"
+  },
+  {
+    "id": "BR-DAO",
+    "name": "ASPPIBRA-DAO",
+    "oneLiner": "Technology for Sustainable Development.",
+    "website": "https://www.asppibra.com.br/",
+    "tags": [
+      "DAO"
+    ],
+    "description": "ASPPIBRA - Association of Property Owners and Possessors in Brazil is a non-profit civil association, founded on April 9, 2016, in the State of Rio de Janeiro-RJ. It is composed of professionals and citizens committed to the technological and socioeconomic development of modern society.",
+    "stats": "300K+ Estate records",
+    "logo": "/img/showcase/BR-DAO_logo.svg",
+    "usesInternetIdentity": false,
+    "authOrigins": [],
+    "github": "https://github.com/ASPPIBRA-DAO",
+    "youtube": "https://www.youtube.com/@ASPPIBRA-DAO/videos",
+    "twitter": "https://x.com/ASPPIBRA_ORG",
+    "screenshots": [
+      "/img/showcase/BR-DAO_screenshot.webp"
+    ]
   }
 ]
